@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Harsh-Patel
+- 👋 Hi, I’m @Harsh-Patel 
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently pursuing a degree in Computer Science
+- 🌱 I’m currently a Junior, pursuing a degree in Computer Science
 - 💞️ I want to expand my knowledge and work on some cool projects!
 - 📫 How to reach me ..hpatel1@iwu.edu
 
